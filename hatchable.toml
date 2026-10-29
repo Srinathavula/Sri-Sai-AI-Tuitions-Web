@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Sri Sai AI Tuitions — Modern Website"
+description = "A clean, responsive redesign of Sri Sai AI Tuitions inspired by modern education landing pages. Focus on typography, spacing, refined pricing cards, clear trial booking, and mobile-friendly UI."
